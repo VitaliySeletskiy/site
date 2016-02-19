@@ -3,7 +3,7 @@ layout: default
 site: home
 ---
 
-# Home
+# Hello My web site
 
 This is the implementation for
 [the post on stateless HTML](http://www.colorglare.com/2014/11/24/stateless-html.html).
